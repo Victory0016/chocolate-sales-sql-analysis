@@ -14,10 +14,11 @@ A structured SQL analysis of a chocolate retail business using Microsoft SQL Ser
    - [Section A: Exploratory Queries (Q1–Q10)](#section-a-exploratory-queries-q1q10)
    - [Section B: Multi-Table Analysis (Q11–Q20)](#section-b-multi-table-analysis-q11q20)
 6. [Key Insights & Findings](#key-insights--findings)
-7. [Skills Demonstrated](#skills-demonstrated)
-8. [Project Structure](#project-structure)
-9. [How to Reproduce](#how-to-reproduce)
-10. [Author](#author)
+7. [Business Recommendations & Strategy](#business-recommendations--strategy)
+8. [Skills Demonstrated](#skills-demonstrated)
+9. [Project Structure](#project-structure)
+10. [How to Reproduce](#how-to-reproduce)
+11. [Author](#author)
 
 ---
 
@@ -557,6 +558,64 @@ ORDER BY s.unit_price DESC;
 
 ---
 
+## Business Recommendations & Strategy
+
+### 1. Optimize Discount Strategy
+- Reduce blanket discount usage (currently ~37.5% of all orders)
+- Introduce targeted discounts based on product performance and demand
+- Use dynamic pricing strategies to protect profit margins
+
+---
+
+### 2. Improve Loyalty Programme Impact
+- Redesign loyalty structure into tiers (Silver, Gold, Platinum)
+- Introduce personalized rewards based on purchase behavior
+- Offer exclusive deals and premium product access for members
+- Aim to increase customer lifetime value (CLV)
+
+---
+
+### 3. Expand in High-Performing Markets (Canada Focus)
+- Prioritize Canada as the top revenue market ($5.08M)
+- Increase marketing investment in high-performing cities like Toronto
+- Expand store presence in high-demand regions
+
+---
+
+### 4. Scale Airport Store Strategy
+- Expand airport retail footprint due to highest revenue performance ($7.6M)
+- Introduce travel-friendly product bundles and premium gift packs
+- Focus on impulse-driven purchasing behavior in transit locations
+
+---
+
+### 5. Improve Retail Store Performance
+- Address underperformance in retail channels (lowest revenue among store types)
+- Improve in-store customer experience and product visibility
+- Implement localized promotions to increase conversion rates
+
+---
+
+### 6. Focus on High-Demand Product Categories
+- Increase production and promotion of Praline (top-selling category)
+- Strengthen White Chocolate product offerings
+- Reduce emphasis on low-performing categories
+- Improve inventory turnover efficiency
+
+---
+
+### 7. Strengthen Premium Product Strategy
+- Expand premium product line beyond current offerings
+- Position premium chocolates as luxury/gifting products
+- Target corporate buyers and seasonal demand (holidays, events)
+
+---
+
+### 8. Maintain Gender-Neutral Marketing Strategy
+- Avoid gender-based segmentation (spending behavior is nearly identical)
+- Focus marketing on behavior-based and product-based segmentation
+- Optimize targeting using loyalty status and purchase history instead
+- 
 ## 🧠 Skills Demonstrated
 
 - ✅ Database creation and structured CSV data import in SSMS
