@@ -631,7 +631,7 @@ ORDER BY s.unit_price DESC;
 
 ## 📁 Project Structure
 
-```
+
 chocolate-sales-sql/
 │
 ├── README.md                        ← Full project documentation (this file)
@@ -647,7 +647,6 @@ chocolate-sales-sql/
     ├── 01_exploratory_queries.sql   ← Q1 to Q10: Single-table analysis
     └── 02_advanced_queries.sql      ← Q11 to Q20: Joins, aggregations, subqueries
 
----
 
 ## Skills Demonstrated
 
@@ -660,10 +659,6 @@ chocolate-sales-sql/
 - Scalar subqueries for comparative filtering
 - Structured query organisation and documentation
 
----
-
-
----
 
 ## How to Reproduce
 
